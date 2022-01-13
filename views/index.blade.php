@@ -65,7 +65,7 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/luffy.jpg" class="d-block w-100" alt="...">
+      <img src="img/carousel1.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
       <h1 class="display-4">
               BISKOP ID,<br />
@@ -77,10 +77,10 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/kaido.jpg" class="d-block w-100" alt="...">
+      <img src="img/carousel2.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="img/bigmom.jpg" class="d-block w-100" alt="...">
+      <img src="img/carousel3.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
