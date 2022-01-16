@@ -1,4 +1,4 @@
-<<!doctype html>
+<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -35,7 +35,7 @@
                     </form>
                 </div>
                 <div class="modal-footer">
-                    <button type="submit" class="btn btn-primary">SUBMIT</button>
+                <button id='btn_mau' onclick='alert("Transaksi Berhasil")'>Mau</button>&nbsp;
                     <button type="reset" class="btn btn-danger">CANCEL</button>
                 </div>
             </div>
